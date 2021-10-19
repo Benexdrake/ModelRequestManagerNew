@@ -223,5 +223,8 @@
   <ItemGroup>
     <None Include="Resources\Heart_NoLike.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Wichtig MYSQL\MRMDB.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

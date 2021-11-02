@@ -17,6 +17,7 @@ namespace ModelRequestManagerNew
         public string ftpIp { get; set; }
         public string ftpPassword { get; set; }
         public static string filename { get; set; }
+        string test;
 
         public Config()
         {
